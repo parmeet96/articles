@@ -8,3 +8,4 @@
     2.2 [Part 2 - Managing Null in the Spring Framework application: Advanced Strategies for Null-Free Architectures](./07122024/avoid-null-in-spring-app-part-2.md) 
 
     2.3 [Part 3 - Spring Boot and Reactive Programming: Advanced Strategies for Null-Free Reactive Pipelines](./07122024/avoid-null-in-java-codebase-using-spring-reactive-part3.md)
+3. [`Slowness` Vs 'Latency` - use right terminology!](./09012025/SlownessVsLatency-right-terminology-matters.md)
